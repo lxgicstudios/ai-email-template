@@ -1,14 +1,44 @@
 {
   "name": "ai-email-template",
   "version": "1.0.0",
-  "description": "Generate responsive email templates from descriptions",
+  "description": "AI-powered email template generator - responsive HTML/MJML emails with GPT",
   "main": "dist/index.js",
-  "bin": { "ai-email-template": "dist/cli.js" },
-  "scripts": { "build": "tsc" },
-  "keywords": ["email", "template", "html", "ai", "generator"],
+  "bin": {
+    "ai-email-template": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "email",
+    "template",
+    "html",
+    "mjml",
+    "react-email",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "marketing",
+    "transactional"
+  ],
   "license": "MIT",
-  "dependencies": { "commander": "^12.1.0", "openai": "^4.73.0", "ora": "^5.4.1" },
-  "devDependencies": { "typescript": "^5.6.0", "@types/node": "^22.0.0" },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "openai": "^4.73.0",
+    "ora": "^5.4.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "@types/node": "^22.0.0"
+  },
   "author": "LXGIC Studios",
-  "repository": { "type": "git", "url": "https://github.com/lxgicstudios/ai-email-template" }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lxgicstudios/ai-email-template"
+  }
 }
