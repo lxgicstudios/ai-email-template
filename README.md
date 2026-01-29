@@ -1,5 +1,10 @@
 # ai-email-template
 
+[![npm version](https://img.shields.io/npm/v/ai-email-template.svg)](https://www.npmjs.com/package/ai-email-template)
+[![npm downloads](https://img.shields.io/npm/dm/ai-email-template.svg)](https://www.npmjs.com/package/ai-email-template)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Generate responsive email templates that work everywhere. HTML, React Email, or MJML.
 
 ## Install
