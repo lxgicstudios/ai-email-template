@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-email-template.svg)](https://www.npmjs.com/package/ai-email-template)
 [![npm downloads](https://img.shields.io/npm/dm/ai-email-template.svg)](https://www.npmjs.com/package/ai-email-template)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-email-template)](https://github.com/lxgic-studios/ai-email-template/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Generate responsive email templates that work everywhere. HTML, React Email, or MJML.
