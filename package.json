@@ -1,5 +1,5 @@
 {
-  "name": "ai-email-template",
+  "name": "@lxgicstudios/ai-email-template",
   "version": "1.0.0",
   "description": "AI-powered email template generator - responsive HTML/MJML emails with GPT",
   "main": "dist/index.js",
