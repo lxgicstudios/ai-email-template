@@ -46,7 +46,9 @@
     "faq-rich-results-removed",
     "ai-overview-citation",
     "structured-data-seo",
-    "llms-txt-seo"
+    "llms-txt-seo",
+    "2026-standards",
+    "modern-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
