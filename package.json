@@ -47,10 +47,7 @@
     "html-email",
     "june-2026-core-update",
     "mjml",
-    "newsletter",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "newsletter"
   ],
   "license": "MIT",
   "main": "dist/index.js",
